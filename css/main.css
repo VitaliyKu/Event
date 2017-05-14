@@ -1,0 +1,11 @@
+#text{
+	display: none;
+}
+
+#text.foo{
+	display: block;
+}
+
+#divny.lore{
+	display: none;
+}
